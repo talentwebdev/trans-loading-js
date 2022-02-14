@@ -213,7 +213,7 @@ if (
 
 const currentScript = document.currentScript;
 const translation_src_url =
-  "https://cdn.jsdelivr.net/gh/talentwebdev/trans-loading-js/translation?v=" +
+  "https://cdn.jsdelivr.net/gh/talentwebdev/trans-loading-js/translation.js?v=" +
   Date.now();
 const hlpt_load_translation_support = function (ref_key) {
   if (currentScript.hasAttribute("data-translations")) {
