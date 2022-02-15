@@ -21,7 +21,7 @@ var hlpt_translation_config = {
     cn: {
       code: "cn",
       source:
-        "https://script.google.com/macros/s/AKfycbw9OYNrfFKA69Ws0fObCOFPa1rRQoczSoaP9OWvYk5ZdiIfbEnUo4JZGPYYgA-tX7CAjQ/exec",
+        "https://script.google.com/macros/s/AKfycbzSmkdU98mUJpOQbr5YN0-J_Lhhc58T0Q8DOmDcXUAMdXFyYluPNOP3TQcOS0ZLI8vb/exec",
       label: "China",
     },
   },
