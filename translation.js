@@ -411,6 +411,10 @@ const hlpt_translation_set_cookie = (cname, cvalue) => {
         lang_code +
         ".png";
     }
+
+    if (lang_code === 'cn') {
+      flag_url = 'https://cdn.jsdelivr.net/gh/talentwebdev/trans-loading-js@1.0.1/china.jpg';
+    }
     return flag_url;
   };
 
